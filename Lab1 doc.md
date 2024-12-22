@@ -78,7 +78,7 @@ public class HelloWorld : MonoBehaviour
 ## Задание 3
 ### Оформить отчет в виде документации на github (markdown-разметка).
 
-- [https://github.com/Fountainebleu/AD-in-GameDev/edit/main/WorkShop1.md](https://github.com/Fountainebleu/AD-in-GameDev/blob/main/WorkShop1.md)
+- [https://github.com/Stealthmefie/Game-Analysis/blob/main/Lab1.md](https://github.com/Stealthmefie/Game-Analysis/blob/main/Lab1.md)
   
 ## Выводы
 
